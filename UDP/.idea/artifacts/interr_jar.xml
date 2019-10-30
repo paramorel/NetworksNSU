@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="interr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/interr_jar</output-path>
+    <root id="archive" name="seti.jar">
+      <element id="module-output" name="seti" />
+    </root>
+  </artifact>
+</component>

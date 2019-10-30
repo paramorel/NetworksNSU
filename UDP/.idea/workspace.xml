@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="interr:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="099e9572-efa3-476f-8e6d-355d90c56e43" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="seti" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RBTcO4fbWzjCDYxWMoUQEGFbaM" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seti2Server" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="seti" />
+      <option name="PROGRAM_PARAMETERS" value="230.0.0.0 5000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="099e9572-efa3-476f-8e6d-355d90c56e43" name="Default Changelist" comment="" />
+      <created>1569139567902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569139567902</updated>
+      <workItem from="1569139570960" duration="11987000" />
+      <workItem from="1569230168354" duration="1301000" />
+      <workItem from="1569246023397" duration="1351000" />
+      <workItem from="1569313512996" duration="6562000" />
+      <workItem from="1569333635234" duration="4912000" />
+      <workItem from="1569340255496" duration="4611000" />
+      <workItem from="1569344936029" duration="3517000" />
+      <workItem from="1569378743934" duration="8085000" />
+      <workItem from="1569388318834" duration="27000" />
+      <workItem from="1569388605349" duration="410000" />
+      <workItem from="1569922217107" duration="700000" />
+      <workItem from="1569934551244" duration="51000" />
+      <workItem from="1569934875490" duration="3747000" />
+      <workItem from="1569939066570" duration="7000" />
+      <workItem from="1570085154530" duration="2263000" />
+      <workItem from="1570527139606" duration="3433000" />
+      <workItem from="1570540826973" duration="1272000" />
+      <workItem from="1570542161576" duration="669000" />
+      <workItem from="1570593319680" duration="953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
