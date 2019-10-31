@@ -6,6 +6,7 @@ public class Application {
     public static void main(String[] args) {
         if (2 != args.length) {
             System.out.println("You should enter IP and port");
+            return;
         }
 
         Sender sender = new Sender(args[0], Integer.parseInt(args[1]));
