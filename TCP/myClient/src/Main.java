@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         if (args.length != 3) {
-            System.err.println("Invalid argument. Enter IP, port, filename");
+            System.err.println("Invalid argument. You need enter IP, port, filename");
             return;
         }
 

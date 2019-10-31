@@ -45,9 +45,9 @@ public class Client {
 
                 returned = Boolean.parseBoolean(readerFromServer.readLine());
                 if (returned) {
-                    System.out.print("Upload finish successful\n");
+                    System.out.print("Upload finish successful!\n");
                 } else {
-                    System.out.println("Upload finish failure\n");
+                    System.out.println("Upload finish failure!\n");
                 }
             } else {
                 System.out.println("Error with connect to server\n");
